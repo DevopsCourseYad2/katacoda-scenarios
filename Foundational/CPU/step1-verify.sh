@@ -1,3 +1,3 @@
 #!/bin/bash
 
-[ -e /home/scrapbook/tutorial/newFile ] && echo "done"
+[ -e /root/newFile ] && echo "done"
