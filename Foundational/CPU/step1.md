@@ -1,5 +1,3 @@
 Create file
 
-```bash
-touch newFile
-```
+`touch newFile` {{execute}}
