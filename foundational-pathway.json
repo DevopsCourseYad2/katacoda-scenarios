@@ -1,6 +1,6 @@
 {
-    "title": "Katacoda UI Layouts Example",
-    "description": "Example of different Katacoda UI Layouts. Also, an example of creating a Katacoda Course!",
+    "title": "Foundational",
+    "description": "This course will cover fundamental Linux components ,Networking and AWS Cloud concepts.",
     "icon": "fa-katacoda",
     "courses": [
       {
