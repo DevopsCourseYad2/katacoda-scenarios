@@ -4,12 +4,12 @@
     "icon": "fa-katacoda",
     "courses": [
       {
-        "course_id": "cpu",
+        "course_id": "linux-essentials-cpu",
         "title": "cpu title",
         "description": "cpu description"
       },
       {
-        "course_id": "file-system",
+        "course_id": "linux-essentials-file-system",
         "title": "file system title",
         "description": "file system description"
       }
