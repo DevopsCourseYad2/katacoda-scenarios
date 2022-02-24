@@ -1,5 +1,11 @@
 {
   "title": "Foundational",
   "description": "This course will cover fundamental Linux components ,Networking and AWS Cloud concepts.",
-  "courses": []
+  "courses": [
+    {
+      "course_id": "CPU",
+      "title": "CPU",
+      "description": "CPU CPU"
+    }
+  ]
 }
