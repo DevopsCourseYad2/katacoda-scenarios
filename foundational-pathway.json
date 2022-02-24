@@ -4,14 +4,14 @@
     "icon": "fa-katacoda",
     "courses": [
       {
-        "course_id": "uilayout-editor-terminal",
-        "title": "Scenario with Editor Terminal UI",
-        "description": "Katacoda Scenario Example"
+        "course_id": "cpu",
+        "title": "cpu title",
+        "description": "cpu description"
       },
       {
-        "course_id": "uilayout-iframe",
-        "title": "Scenario with iFrame only UI",
-        "description": ""
+        "course_id": "file-system",
+        "title": "file system title",
+        "description": "file system description"
       }
     ]
   }
