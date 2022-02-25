@@ -1,5 +1,5 @@
 {
-    "title": "Foundational",
+    "title": "Linux Essentials",
     "description": "This course will cover fundamental Linux components ,Networking and AWS Cloud concepts.",
     "icon": "fa-katacoda",
     "courses": [
@@ -9,7 +9,7 @@
         "description": "cpu description"
       },
       {
-        "course_id": "linux-essentials-file-system",
+        "course_id": "file-system",
         "title": "file system title",
         "description": "file system description"
       }
