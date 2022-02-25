@@ -35,6 +35,9 @@ Course created successfully.
 ? Layout:  Terminal
 Scenario created successfully.
 
-
+> katacoda courses:add:scenarios
+? Please enter scenario path ./load-balancing
+? Please enter course path ./web-applications
+? Would you like todo? Move to courses folder
 ```
 
