@@ -1,6 +1,6 @@
 {
-  "title": "Web Application",
-  "description": "This a description",
+  "title": "Load Balancing",
+  "description": "Load Balancing Description",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
@@ -12,10 +12,6 @@
       {
         "title": "Step 2",
         "text": "step2.md"
-      },
-      {
-        "title": "Step 3",
-        "text": "step3.md"
       }
     ],
     "intro": {

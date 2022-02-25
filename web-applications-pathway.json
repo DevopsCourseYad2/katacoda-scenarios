@@ -1,0 +1,11 @@
+{
+  "title": "Web Applications",
+  "description": "Web Applications description",
+  "courses": [
+    {
+      "course_id": "load-balancing",
+      "title": "Load Balancing",
+      "description": "Load Balancing Description"
+    }
+  ]
+}
